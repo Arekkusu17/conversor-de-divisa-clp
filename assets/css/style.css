@@ -1,0 +1,14 @@
+.chart-container{
+  display: inline-block;
+  position: relative;
+  width:500px;
+}
+
+canvas{
+  margin: 0;
+  
+}
+
+
+
+
