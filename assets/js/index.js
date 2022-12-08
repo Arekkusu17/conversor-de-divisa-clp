@@ -80,6 +80,7 @@ async function lookForData(currency){
     });
 
     chart.render();
+    
 
   } catch(err){
     console.log("catch",err)
